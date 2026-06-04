@@ -122,36 +122,6 @@ Histopathological Images
 
 ---
 
-## Repository Structure
-
-```text
-Quantum-Classical-Oral-Cancer-Detection/
-│
-├── README.md
-├── LICENSE
-├── requirements.txt
-├── .gitignore
-│
-├── notebooks/
-│   └── Oral.ipynb
-│
-├── models/
-│   └── QI_DenseNet121_best.keras
-│
-├── images/
-│   ├── workflow.png
-│   ├── architecture.png
-│   ├── confusion_matrix.png
-│   ├── roc_curve.png
-│   ├── accuracy_curve.png
-│   └── loss_curve.png
-│
-├── results/
-│   └── performance_metrics.csv
-│
-└── docs/
-    └── project_report.pdf
-```
 
 ---
 
