@@ -216,3 +216,23 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Kaggle credentials
+kaggle.json
+
+# Dataset
+dataset/
+data/
+
+# Trained models (optional)
+*.h5
+*.keras
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Mac files
+.DS_Store
